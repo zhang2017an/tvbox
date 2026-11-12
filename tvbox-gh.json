@@ -7,7 +7,7 @@
    "key": "test_db_script",
    "name": "🎬自建合集",
    "type": 3,
-   "api": "https://cdn.jsdelivr.net/gh/zhang2017an/tvbox@main/mydouban-v5.js",
+   "api": "https://cdn.jsdelivr.net/gh/zhang2017an/tvbox@main/mydouban-v5-ng.js",
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 0,
